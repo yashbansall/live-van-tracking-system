@@ -13,9 +13,6 @@ The Live Van Tracking System is a real-time vehicle tracking solution that allow
 ## 🎥 Demo Video
 [Watch Demo](https://drive.google.com/file/d/1-uYBH4sNa1VC4p4Hpp7C_9H80bW8jruy/view?usp=sharing&t=345.199)
 
-## 🌐 Live Demo
-[View Project](Vantrace.infinityfreeapp.com) Because of Free Hosting Please press the **Trythis unsafe site** 
-
 ## 🛠️ Technologies Used
 - HTML, CSS, JavaScript  
 - PHP  
